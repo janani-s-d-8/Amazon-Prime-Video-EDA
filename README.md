@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/janani-s-d-8/Amazon-Prime-Video-EDA/blob/main/amazon_prime_eda.ipynb)
+
 # Amazon Prime Video EDA Project
 
 ## 📌 Project Summary
