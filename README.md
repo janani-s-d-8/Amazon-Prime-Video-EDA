@@ -17,6 +17,6 @@ To understand the distribution and characteristics of Amazon Prime Video content
 - IMDb score trends show most content scores between 6–8.
 
 ## 📈 Visualizations
-All charts are embedded in the Jupyter Notebook (Colab).
+All charts are embedded in the Google Colab.
 
 ---
